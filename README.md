@@ -1,4 +1,9 @@
-# README
+# TEAM - ORGANA
+- Kartheek Kamadana
+- Nayana Kamerkar
+- Roshan Rathlavath
+- Prasanna Rushi
+- Sai Nithin Billi
 
 ## Git Logs: Explanation and Usage
 
